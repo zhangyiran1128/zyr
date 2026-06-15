@@ -29,7 +29,7 @@ MedleyDB: https://medleydb.weebly.com/downloads.html
 
 BGM909: https://drive.google.com/drive/folders/1zRNROuTxVNhJfqeyqRzPoIY60z5zLaHK
 
-POP909: https://yukisaki-my.sharepoint.com/personal/aik2_yukisaki_io/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faik2%5Fyukisaki%5Fio%2FDocuments%2FShare%2Fpolyffusion%2FPOP909%5F4%5Fbin%5Fpnt%5F8bar%2Ezip&parent=%2Fpersonal%2Faik2%5Fyukisaki%5Fio%2FDocuments%2FShare%2Fpolyffusion&ga=1
+POP909: https://drive.google.com/file/d/1YzwyE_Ch0dKDhJxC8X1irvYOOatB8KNq/view?usp=drive_link
 
 V2M: https://huggingface.co/datasets/HKUSTAudio/VidMuse-V2M-Dataset
 
